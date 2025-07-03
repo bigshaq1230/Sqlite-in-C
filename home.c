@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <sqlite3.h>
+#include "libs/sqlite3/sqlite3.h"
 #include <string.h>
 #include"func.c"
 #include"medcin.c"

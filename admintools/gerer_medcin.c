@@ -1,8 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <sqlite3.h>
+#include "../libs/sqlite3/sqlite3.h"
 #include<string.h>
 #include<stdio.h>
+#include <stdbool.h>
 void admintools();
 void gerer_les_medecins();
 void addm() {
